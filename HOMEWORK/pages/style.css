@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgba(19, 145, 206, 0.7);
+}
+.a {
+  text-decoration: none;
+}
+.ul {
+  list-style-type: none;
+}
+
+.container {
+  width: 1440px;
+  /* height: 643px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 54px;
+}
+.navMenu,
+.nav-menu,
+.nav-list {
+  display: flex;
+}
+.nav-itemes {
+    gap: 32px;
+}
